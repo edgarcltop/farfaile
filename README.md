@@ -40,9 +40,6 @@ For custom setup instructions, see [custom-setup-instructions.md](/custom-setup-
 ## 🚀 Deploy
 
 ### Backend
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/edgarcltop/farfalleUp)
-
 After the backend is deployed, copy the web service URL to your clipboard.
 
 ### Frontend
